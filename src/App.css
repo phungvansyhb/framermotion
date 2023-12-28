@@ -1,0 +1,9 @@
+.cat{
+    animation: 4s infinite steps(4) walk ;
+}
+
+@keyframes walk {
+    100%{
+        background-position: 100%;
+    } 
+}
